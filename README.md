@@ -29,7 +29,7 @@ Built an end-to-end NLP pipeline that processes customer support transcripts and
 
 | Metric | Sentiment Classification | Intent Classification |
 |--------|-------------------------|----------------------|
-| **Accuracy** | 84.67% | 78.0% |
+| **Accuracy** | 84.67% | 38.0% |
 | **Training Samples** | 500 | 300 |
 | **Classes** | 2 (positive/negative) | 10+ intents |
 | **Model Size** | 125M parameters (shared) | |
