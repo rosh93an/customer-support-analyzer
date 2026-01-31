@@ -309,5 +309,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you found this project helpful, please consider giving it a star! It helps others discover the project.
 
 ---
+## Dashboard preview
+### 🖼️ Dashboard Preview
+![Real-Time Analysis](assets/Screenshot%20(214).png)
+![Data Warehouse](assets/Screenshot%20(215).png)
 
 **Built with ❤️ by Roshan Shetty | January 2025**
