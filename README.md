@@ -314,4 +314,4 @@ If you found this project helpful, please consider giving it a star! It helps ot
 ![Real-Time Analysis](assets/Screenshot%20(214).png)
 ![Data Warehouse](assets/Screenshot%20(215).png)
 
-**Built with ❤️ by Roshan Shetty | January 2025**
+**Built with ❤️ by Roshan Shetty | January 2026**
